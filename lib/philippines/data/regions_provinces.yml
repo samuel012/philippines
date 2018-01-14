@@ -104,7 +104,7 @@ Zamboanga Peninsula:
     - Zamboanga del Sur
     - Zamboanga Sibugay
 
-Northern Midnanao:
+Northern Mindanao:
   designation: Region X
   provinces:
     - Bukidnon
@@ -119,10 +119,11 @@ Davao Region:
     - Compostela Valley
     - Davao del Norte
     - Davao del Sur
+    - Davao Occidental
     - Davao Oriental
 
 SOCCSKSARGEN:
-  designation: Region XIII
+  designation: Region XII
   provinces:
     - Cotabato
     - Sarangani
