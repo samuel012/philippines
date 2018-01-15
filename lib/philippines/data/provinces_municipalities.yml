@@ -13,7 +13,7 @@ Abra:
     - Lagangilang
     - Lagayan
     - Langiden
-    - Licuan-Baay
+    - Licuan-Baay (Licuan)
     - Luba
     - Malibcong
     - Manabo
@@ -31,8 +31,8 @@ Abra:
 
 Agusan del Norte:
   cities:
-    - Butuan City
-    - Cabadbaran City
+    - Butuan
+    - Cabadbaran
   municipalities:
     - Buenavista
     - Carmen
@@ -47,7 +47,7 @@ Agusan del Norte:
 
 Agusan del Sur:
   cities:
-    - Bayugan City
+    - Bayugan
   municipalities:
     - Bunawan
     - Esperanza
@@ -86,13 +86,13 @@ Aklan:
 
 Albay:
   cities:
-    - Legazpi City
-    - Ligao City
-    - Tabaco City
+    - Legazpi
+    - Ligao
+    - Tabaco
   municipalities:
     - Bacacay
     - Camalig
-    - Daraga
+    - Daraga (Locsin)
     - Guinobatan
     - Jovellar
     - Libon
@@ -103,7 +103,7 @@ Albay:
     - Pio Duran
     - Polangui
     - Rapu-Rapu
-    - Santo Domingo
+    - Santo Domingo (Libog)
     - Tiwi
 
 Antique:
@@ -120,18 +120,18 @@ Antique:
     - Libertad
     - Pandan
     - Patnongon
-    - San Jose
+    - San Jose de Buenavista
     - San Remigio
     - Sebaste
     - Sibalom
     - Tibiao
-    - Tobias Fornier
+    - Tobias Fornier (Dao)
     - Valderrama
 
 Apayao:
   cities: []
   municipalities:
-    - Calanasan
+    - Calanasan (Bayag)
     - Conner
     - Flora
     - Kabugao
@@ -154,7 +154,7 @@ Aurora:
 Basilan:
   cities:
     - Isabela City
-    - Lamitan City
+    - Lamitan
   municipalities:
     - Akbar
     - Al-Barka
@@ -170,7 +170,7 @@ Basilan:
 
 Bataan:
   cities:
-    - Balanga City
+    - Balanga
   municipalities:
     - Abucay
     - Bagac
@@ -197,8 +197,8 @@ Batanes:
 Batangas:
   cities:
     - Batangas City
-    - Lipa City
-    - Tanauan City
+    - Lipa
+    - Tanauan
   municipalities:
     - Agoncillo
     - Alitagtag
@@ -215,7 +215,7 @@ Batangas:
     - Lobo
     - Mabini
     - Malvar
-    - Mataas na Kahoy
+    - Mataasnakahoy
     - Nasugbu
     - Padre Garcia
     - Rosario
@@ -234,7 +234,7 @@ Batangas:
 
 Benguet:
   cities:
-    - Baguio City
+    - Baguio
   municipalities:
     - Atok
     - Bakun
@@ -264,7 +264,7 @@ Biliran:
 
 Bohol:
   cities:
-    - Tagbilaran City
+    - Tagbilaran
   municipalities:
     - Alburquerque
     - Alicia
@@ -301,8 +301,8 @@ Bohol:
     - Maribojoc
     - Panglao
     - Pilar
-    - President Carlos P. Garcia
-    - Sagbayan
+    - President Carlos P. Garcia (Pitogo)
+    - Sagbayan (Borja)
     - San Isidro
     - San Miguel
     - Sevilla
@@ -316,15 +316,15 @@ Bohol:
 
 Bukidnon:
   cities:
-    - Malaybalay City
-    - Valencia City
+    - Malaybalay
+    - Valencia
   municipalities:
     - Baungon
     - Cabanglasan
     - Damulog
     - Dangcagan
     - Don Carlos
-    - Impasug-ong
+    - Impasugong
     - Kadingilan
     - Kalilangan
     - Kibawe
@@ -342,15 +342,15 @@ Bukidnon:
 
 Bulacan:
   cities:
-    - Malolos City
-    - Meycauayan City
-    - San Jose del Monte City
+    - Malolos
+    - Meycauayan
+    - San Jose del Monte
   municipalities:
     - Angat
-    - Balagtas
+    - Balagtas (Bigaa)
     - Baliuag
     - Bocaue
-    - Bulacan
+    - Bulakan
     - Bustos
     - Calumpit
     - Doña Remedios Trinidad
@@ -370,7 +370,7 @@ Bulacan:
 
 Cagayan:
   cities:
-    - Tugegarao City
+    - Tuguegarao
   municipalities:
     - Abulug
     - Alcala
@@ -397,7 +397,7 @@ Cagayan:
     - Santa Ana
     - Santa Praxedes
     - Santa Teresita
-    - Santo Niño
+    - Santo Niño (Faire)
     - Solana
     - Tuao
 
@@ -411,7 +411,7 @@ Camarines Norte:
     - Labo
     - Mercedes
     - Paracale
-    - San Lorenzo Ruiz
+    - San Lorenzo Ruiz (Imelda)
     - San Vicente
     - Santa Elena
     - Talisay
@@ -419,8 +419,8 @@ Camarines Norte:
 
 Camarines Sur:
   cities:
-    - Iriga City
-    - Naga City
+    - Iriga
+    - Naga
   municipalities:
     - Baao
     - Balatan
@@ -448,7 +448,7 @@ Camarines Sur:
     - Pamplona
     - Pasacao
     - Pili
-    - Presentacion
+    - Presentacion (Parubcan)
     - Ragay
     - Sagñay
     - San Fernando
@@ -477,14 +477,14 @@ Capiz:
     - Dumarao
     - Ivisan
     - Jamindan
-    - Ma-ayon
+    - Maayon
     - Mambusao
     - Panay
     - Panitan
     - Pilar
     - Pontevedra
     - President Roxas
-    - Sapi-an
+    - Sapian
     - Sigma
     - Tapaz
 
@@ -497,32 +497,32 @@ Catanduanes:
     - Caramoran
     - Gigmoto
     - Pandan
-    - Panganiban
-    - San Andres
+    - Panganiban (Payo)
+    - San Andres (Calolbon)
     - San Miguel
     - Viga
     - Virac
 
 Cavite:
   cities:
-    - Bacoor City
+    - Bacoor
     - Cavite City
-    - Dasmariñas City
-    - Imus City
-    - Tagaytay City
-    - Trece Martires City
+    - Dasmariñas
+    - General Trias
+    - Imus
+    - Tagaytay
+    - Trece Martires
   municipalities:
     - Alfonso
     - Amadeo
     - Carmona
-    - General Mariano Alvarez
     - General Emilio Aguinaldo
-    - General Trias
+    - General Mariano Alvarez
     - Indang
     - Kawit
     - Magallanes
     - Maragondon
-    - Mendez
+    - Mendez (Mendez-Nuñez)
     - Naic
     - Noveleta
     - Rosario
@@ -532,15 +532,15 @@ Cavite:
 
 Cebu:
   cities:
-    - Bogo City
+    - Bogo
+    - Carcar
     - Cebu City
-    - Carcar City
-    - Danao City
-    - Lapu-Lapu City
-    - Mandaue City
-    - Naga City
-    - Talisay City
-    - Toledo City
+    - Danao
+    - Lapu-Lapu (Opon)
+    - Mandaue
+    - Naga
+    - Talisay
+    - Toledo
   municipalities:
     - Alcantara
     - Alcoy
@@ -558,7 +558,7 @@ Cebu:
     - Catmon
     - Compostela
     - Consolacion
-    - Cordoba
+    - Cordova
     - Daanbantayan
     - Dalaguete
     - Dumanjug
@@ -571,7 +571,7 @@ Cebu:
     - Moalboal
     - Oslob
     - Pilar
-    - Pinamungahan
+    - Pinamungajan
     - Poro
     - Ronda
     - Samboan
@@ -591,10 +591,10 @@ Compostela Valley:
   cities: []
   municipalities:
     - Compostela
-    - Laak
-    - Mabini
+    - Laak (San Vicente)
+    - Mabini (Doña Alicia)
     - Maco
-    - Maragusan
+    - Maragusan (San Mariano)
     - Mawab
     - Monkayo
     - Montevista
@@ -604,7 +604,7 @@ Compostela Valley:
 
 Cotabato:
   cities:
-    - Kidapawan City
+    - Kidapawan
   municipalities:
     - Alamada
     - Aleosan
@@ -619,18 +619,18 @@ Cotabato:
     - Makilala
     - Matalam
     - Midsayap
-    - Pigkawayan
+    - Pigcawayan
     - Pikit
     - President Roxas
     - Tulunan
 
 Davao del Norte:
   cities:
-    - Panabo City
-    - Samal City
-    - Tagum City
+    - Panabo
+    - Samal
+    - Tagum
   municipalities:
-    - Asuncion
+    - Asuncion (Saug)
     - Braulio E. Dujali
     - Carmen
     - Kapalong
@@ -642,26 +642,30 @@ Davao del Norte:
 Davao del Sur:
   cities:
     - Davao City
-    - Digos City
+    - Digos
   municipalities:
     - Bansalan
-    - Don Marcelino
     - Hagonoy
-    - Jose Abad Santos
     - Kiblawan
     - Magsaysay
     - Malalag
-    - Malita
     - Matanao
     - Padada
     - Santa Cruz
+    - Sulop
+
+Davao Occidental:
+  cities: []
+  municipalities:
+    - Don Marcelino
+    - Jose Abad Santos (Trinidad)
+    - Malita
     - Santa Maria
     - Sarangani
-    - Sulop
 
 Davao Oriental:
   cities:
-    - Mati City
+    - Mati
   municipalities:
     - Baganga
     - Banaybanay
@@ -677,17 +681,17 @@ Davao Oriental:
 Dinagat Islands:
   cities: []
   municipalities:
-    - Basilisa (Rizal)
+    - Basilisa (Rizal)
     - Cagdianao
     - Dinagat
-    - Libjo (Albor)
+    - Libjo (Albor)
     - Loreto
     - San Jose
     - Tubajon
 
 Eastern Samar:
   cities:
-    - Borongan City
+    - Borongan
   municipalities:
     - Arteche
     - Balangiga
@@ -725,7 +729,7 @@ Ifugao:
   cities: []
   municipalities:
     - Aguinaldo
-    - Alfonso Lista
+    - Alfonso Lista (Potia)
     - Asipulo
     - Banaue
     - Hingyon
@@ -738,14 +742,14 @@ Ifugao:
 
 Ilocos Norte:
   cities:
-    - Batac City
-    - Laoag City
+    - Batac
+    - Laoag
   municipalities:
     - Adams
     - Bacarra
     - Badoc
     - Bangui
-    - Banna
+    - Banna (Espiritu)
     - Burgos
     - Carasi
     - Currimao
@@ -765,8 +769,8 @@ Ilocos Norte:
 
 Ilocos Sur:
   cities:
-    - Candon City
-    - Vigan City
+    - Candon
+    - Vigan
   municipalities:
     - Alilem
     - Banayoyo
@@ -776,17 +780,17 @@ Ilocos Sur:
     - Caoayan
     - Cervantes
     - Galimuyod
-    - Gregorio Del Pilar
+    - Gregorio del Pilar (Concepcion)
     - Lidlidda
     - Magsingal
     - Nagbukel
     - Narvacan
-    - Quirino
-    - Salcedo
+    - Quirino (Angkaki)
+    - Salcedo (Baugen)
     - San Emilio
     - San Esteban
     - San Ildefonso
-    - San Juan
+    - San Juan (Lapog)
     - San Vicente
     - Santa
     - Santa Catalina
@@ -804,7 +808,7 @@ Ilocos Sur:
 Iloilo:
   cities:
     - Iloilo City
-    - Passi City
+    - Passi
   municipalities:
     - Ajuy
     - Alimodian
@@ -851,9 +855,9 @@ Iloilo:
 
 Isabela:
   cities:
-    - Cauayan City
-    - Ilagan City
-    - Santiago City
+    - Cauayan
+    - Ilagan
+    - Santiago
   municipalities:
     - Alicia
     - Angadanan
@@ -863,7 +867,7 @@ Isabela:
     - Cabagan
     - Cabatuan
     - Cordon
-    - Delfin Albano
+    - Delfin Albano (Magsaysay)
     - Dinapigue
     - Divilacan
     - Echague
@@ -882,7 +886,7 @@ Isabela:
     - San Agustin
     - San Guillermo
     - San Isidro
-    - San Manuel
+    - San Manuel (Callang)
     - San Mariano
     - San Mateo
     - San Pablo
@@ -892,19 +896,19 @@ Isabela:
 
 Kalinga:
   cities:
-    - Tabuk City
+    - Tabuk
   municipalities:
     - Balbalan
     - Lubuagan
     - Pasil
     - Pinukpuk
-    - Rizal
+    - Rizal (Liwan)
     - Tanudan
     - Tinglayan
 
 La Union:
   cities:
-    - San Fernando City
+    - San Fernando
   municipalities:
     - Agoo
     - Aringay
@@ -928,11 +932,12 @@ La Union:
 
 Laguna:
   cities:
-    - Biñan City
-    - Cabuyao City
-    - Calamba City
-    - San Pablo City
-    - Santa Rosa City
+    - Biñan
+    - Cabuyao
+    - Calamba
+    - San Pablo
+    - San Pedro
+    - Santa Rosa
   municipalities:
     - Alaminos
     - Bay
@@ -941,8 +946,8 @@ Laguna:
     - Famy
     - Kalayaan
     - Liliw
-    - Luisiana
     - Los Baños
+    - Luisiana
     - Lumban
     - Mabitac
     - Magdalena
@@ -954,7 +959,6 @@ Laguna:
     - Pangil
     - Pila
     - Rizal
-    - San Pedro
     - Santa Cruz
     - Santa Maria
     - Siniloan
@@ -962,7 +966,7 @@ Laguna:
 
 Lanao del Norte:
   cities:
-    - Iligan City
+    - Iligan
   municipalities:
     - Bacolod
     - Baloi
@@ -982,30 +986,30 @@ Lanao del Norte:
     - Poona Piagapo
     - Salvador
     - Sapad
-    - Sultan Naga Dimaporo
+    - Sultan Naga Dimaporo (Karomatan)
     - Tagoloan
     - Tangcal
     - Tubod
 
 Lanao del Sur:
   cities:
-    - Marawi City
+    - Marawi
   municipalities:
-    - Bacolod-Kalawi
+    - Amai Manabilang (Bumbaran)
+    - Bacolod-Kalawi (Bacolod-Grande)
     - Balabagan
-    - Balindong
+    - Balindong (Watu)
     - Bayang
     - Binidayan
     - Buadiposo-Buntong
     - Bubong
-    - Bumbaran
     - Butig
     - Calanogas
     - Ditsaan-Ramain
     - Ganassi
     - Kapai
     - Kapatagan
-    - Lumba-Bayabao
+    - Lumba-Bayabao (Maguing)
     - Lumbaca-Unayan
     - Lumbatan
     - Lumbayanague
@@ -1016,14 +1020,14 @@ Lanao del Sur:
     - Marantao
     - Marogong
     - Masiu
-    - Mulondo
-    - Pagayawan
+    - Mulond
+    - Pagayawan (Tatarikan)
     - Piagapo
-    - Poona Bayabao
+    - Picong (Sultan Gumander)
+    - Poona Bayabao (Gata)
     - Pualas
     - Saguiaran
     - Sultan Dumalondong
-    - Picong
     - Tagoloan II
     - Tamparan
     - Taraka
@@ -1033,9 +1037,9 @@ Lanao del Sur:
 
 Leyte:
   cities:
-    - Baybay City
-    - Ormoc City
-    - Tacloban City
+    - Baybay
+    - Ormoc
+    - Tacloban
   municipalities:
     - Abuyog
     - Alangalang
@@ -1054,7 +1058,7 @@ Leyte:
     - Inopacan
     - Isabel
     - Jaro
-    - Javier
+    - Javier (Bugho)
     - Julita
     - Kananga
     - La Paz
@@ -1090,16 +1094,16 @@ Maguindanao:
     - Datu Anggal Midtimbang
     - Datu Blah T. Sinsuat
     - Datu Hoffer Ampatuan
-    - Datu Montawal
-    - Datu Odin Sinsuat
+    - Datu Montawal (Pagagawan)
+    - Datu Odin Sinsuat (Dinaig)
     - Datu Paglas
-    - Datu Piang
+    - Datu Piang (Dulawan)
     - Datu Salibo
     - Datu Saudi-Ampatuan
     - Datu Unsay
     - General Salipada K. Pendatun
     - Guindulungan
-    - Kabuntalan
+    - Kabuntalan (Tumbao)
     - Mamasapano
     - Mangudadatu
     - Matanog
@@ -1109,14 +1113,14 @@ Maguindanao:
     - Pandag
     - Parang
     - Rajah Buayan
-    - Shariff Aguak
+    - Shariff Aguak (Maganoy)
     - Shariff Saydona Mustapha
     - South Upi
-    - Sultan Kudarat
+    - Sultan Kudarat (Nuling)
     - Sultan Mastura
-    - Sultan sa Barongis
+    - Sultan sa Barongis (Lambayong)
+    - Sultan Sumagka (Talitay)
     - Talayan
-    - Talitay
     - Upi
 
 Marinduque:
@@ -1147,7 +1151,7 @@ Masbate:
     - Mobo
     - Monreal
     - Palanas
-    - Pio V. Corpuz
+    - Pio V. Corpuz (Limbuhan)
     - Placer
     - San Fernando
     - San Jacinto
@@ -1156,30 +1160,30 @@ Masbate:
 
 Metro Manila:
   cities:
-    - City of Manila
-    - Caloocan City
-    - Las Piñas City
-    - Makati City
-    - Malabon City
-    - Mandaluyong City
-    - Marikina City
-    - Muntinlupa City
-    - Navotas City
-    - Parañaque City
-    - Pasay City
-    - Pasig City
+    - Caloocan
+    - Las Piñas
+    - Makati
+    - Malabon
+    - Mandaluyong
+    - Manila
+    - Marikina
+    - Muntinlupa
+    - Navotas
+    - Parañaque
+    - Pasay
+    - Pasig
     - Quezon City
-    - San Juan City
-    - Taguig City
-    - Valenzuela City
+    - San Juan
+    - Taguig
+    - Valenzuela
   municipalities:
     - Pateros
 
 Misamis Occidental:
   cities:
-    - Oroquieta City
-    - Ozamiz City
-    - Tangub City
+    - Oroquieta
+    - Ozamiz
+    - Tangub
   municipalities:
     - Aloran
     - Baliangao
@@ -1187,7 +1191,7 @@ Misamis Occidental:
     - Calamba
     - Clarin
     - Concepcion
-    - Don Victoriano Chiongbian
+    - Don Victoriano Chiongbian (Don Mariano Marcos)
     - Jimenez
     - Lopez Jaena
     - Panaon
@@ -1199,8 +1203,8 @@ Misamis Occidental:
 Misamis Oriental:
   cities:
     - Cagayan de Oro
-    - El Salvador City
-    - Gingoog City
+    - El Salvador
+    - Gingoog
   municipalities:
     - Alubijid
     - Balingasag
@@ -1215,7 +1219,7 @@ Misamis Oriental:
     - Laguindingan
     - Libertad
     - Lugait
-    - Magsaysay
+    - Magsaysay (Linugos)
     - Manticao
     - Medina
     - Naawan
@@ -1242,32 +1246,32 @@ Mountain Province:
 
 Negros Occidental:
   cities:
-    - Bacolod City
-    - Bago City
-    - Cadiz City
-    - Escalante City
-    - Himamaylan City
-    - Kabankalan City
-    - La Carlota City
-    - Sagay City
-    - San Carlos City
-    - Silay City
-    - Sipalay City
-    - Talisay City
-    - Victorias City
+    - Bacolod
+    - Bago
+    - Cadiz
+    - Escalante
+    - Himamaylan
+    - Kabankalan
+    - La Carlota
+    - Sagay
+    - San Carlos
+    - Silay
+    - Sipalay
+    - Talisay
+    - Victorias
   municipalities:
     - Binalbagan
     - Calatrava
     - Candoni
     - Cauayan
-    - Enrique B. Magalona
+    - Enrique B. Magalona (Saravia)
     - Hinigaran
-    - Hinoba-an
+    - Hinoba-an (Asia)
     - Ilog
     - Isabela
     - La Castellana
     - Manapla
-    - Moises Padilla
+    - Moises Padilla (Magallon)
     - Murcia
     - Pontevedra
     - Pulupandan
@@ -1278,18 +1282,18 @@ Negros Occidental:
 
 Negros Oriental:
   cities:
-    - Bais City
-    - Bayawan City
-    - Canlaon City
-    - Guihulngan City
-    - Dumaguete City
-    - Tanjay City
+    - Bais
+    - Bayawan (Tulong)
+    - Canlaon
+    - Dumaguete
+    - Guihulngan
+    - Tanjay
   municipalities:
-    - Amlan
+    - Amlan (Ayuquitan)
     - Ayungon
     - Bacong
     - Basay
-    - Bindoy
+    - Bindoy (Payabon)
     - Dauin
     - Jimalalud
     - La Libertad
@@ -1301,7 +1305,7 @@ Negros Oriental:
     - Siaton
     - Sibulan
     - Tayasan
-    - Valencia
+    - Valencia (Luzurriaga)
     - Vallehermoso
     - Zamboanguita
 
@@ -1335,20 +1339,20 @@ Northern Samar:
 
 Nueva Ecija:
   cities:
-    - Cabanatuan City
-    - Gapan City
-    - Palayan City
-    - San Jose City
-    - Science City of Muñoz
+    - Cabanatuan
+    - Gapan
+    - Muñoz
+    - Palayan
+    - San Jose
   municipalities:
     - Aliaga
     - Bongabon
     - Cabiao
     - Carranglan
     - Cuyapo
-    - Gabaldon
+    - Gabaldon (Bitulok & Sabani)
     - General Mamerto Natividad
-    - General Tinio
+    - General Tinio (Papaya)
     - Guimba
     - Jaen
     - Laur
@@ -1372,7 +1376,7 @@ Nueva Ecija:
 Nueva Vizcaya:
   cities: []
   municipalities:
-    - Alfonso Castaneda
+    - Alfonso Castañeda
     - Ambaguio
     - Aritao
     - Bagabag
@@ -1384,9 +1388,9 @@ Nueva Vizcaya:
     - Kasibu
     - Kayapa
     - Quezon
-    - Santa Fe
+    - Santa Fe (Imugan)
     - Solano
-    - Villaverde
+    - Villaverde (Ibung)
 
 Occidental Mindoro:
   cities: []
@@ -1405,12 +1409,12 @@ Occidental Mindoro:
 
 Oriental Mindoro:
   cities:
-    - Calapan City
+    - Calapan
   municipalities:
     - Baco
     - Bansud
     - Bongabong
-    - Bulalacao
+    - Bulalacao (San Pedro)
     - Gloria
     - Mansalay
     - Naujan
@@ -1424,7 +1428,7 @@ Oriental Mindoro:
 
 Palawan:
   cities:
-    - Puerto Princesa City
+    - Puerto Princesa
   municipalities:
     - Aborlan
     - Agutaya
@@ -1438,13 +1442,13 @@ Palawan:
     - Culion
     - Cuyo
     - Dumaran
-    - El Nido
+    - El Nido (Bacuit)
     - Kalayaan
     - Linapacan
     - Magsaysay
     - Narra
     - Quezon
-    - Rizal
+    - Rizal (Marcos)
     - Roxas
     - San Vicente
     - Sofronio Española
@@ -1452,9 +1456,9 @@ Palawan:
 
 Pampanga:
   cities:
-    - Angeles City
-    - City of San Fernando
-    - Mabalacat City
+    - Angeles
+    - Mabalacat
+    - San Fernando
   municipalities:
     - Apalit
     - Arayat
@@ -1474,14 +1478,14 @@ Pampanga:
     - Santa Ana
     - Santa Rita
     - Santo Tomas
-    - Sasmuan
+    - Sasmuan (Sexmoan)
 
 Pangasinan:
   cities:
-    - Alaminos City
-    - Dagupan City
-    - San Carlos City
-    - Urdaneta City
+    - Alaminos
+    - Dagupan
+    - San Carlos
+    - Urdaneta
   municipalities:
     - Agno
     - Aguilar
@@ -1511,7 +1515,7 @@ Pangasinan:
     - Mangatarem
     - Mapandan
     - Natividad
-    - Pozzorubio
+    - Pozorrubio
     - Rosales
     - San Fabian
     - San Jacinto
@@ -1530,8 +1534,8 @@ Pangasinan:
 
 Quezon:
   cities:
-    - Lucena City
-    - Tayabas City
+    - Lucena
+    - Tayabas
   municipalities:
     - Agdangan
     - Alabat
@@ -1566,7 +1570,7 @@ Quezon:
     - Sampaloc
     - San Andres
     - San Antonio
-    - San Francisco
+    - San Francisco (Aurora)
     - San Narciso
     - Sariaya
     - Tagkawayan
@@ -1585,7 +1589,7 @@ Quirino:
 
 Rizal:
   cities:
-    - Antipolo City
+    - Antipolo
   municipalities:
     - Angono
     - Baras
@@ -1595,7 +1599,7 @@ Rizal:
     - Jalajala
     - Morong
     - Pililla
-    - Rodriguez
+    - Rodriguez (Montalban)
     - San Mateo
     - Tanay
     - Taytay
@@ -1605,7 +1609,7 @@ Romblon:
   cities: []
   municipalities:
     - Alcantara
-    - Banton
+    - Banton (Jones)
     - Cajidiocan
     - Calatrava
     - Concepcion
@@ -1620,12 +1624,12 @@ Romblon:
     - San Fernando
     - San Jose
     - Santa Fe
-    - Santa Maria
+    - Santa Maria (Imelda)
 
 Samar:
   cities:
-    - Calbayog City
-    - Catbalogan City
+    - Calbayog
+    - Catbalogan
   municipalities:
     - Almagro
     - Basey
@@ -1638,10 +1642,10 @@ Samar:
     - Matuguinao
     - Motiong
     - Pagsanghan
-    - Paranas
+    - Paranas (Wright)
     - Pinabacdao
     - San Jorge
-    - San Jose De Buan
+    - San Jose de Buan
     - San Sebastian
     - Santa Margarita
     - Santa Rita
@@ -1694,8 +1698,8 @@ Sorsogon:
 
 South Cotabato:
   cities:
-    - General Santos City
-    - Koronadal City
+    - General Santos (Dadiangas)
+    - Koronadal
   municipalities:
     - Banga
     - Lake Sebu
@@ -1703,14 +1707,14 @@ South Cotabato:
     - Polomolok
     - Santo Niño
     - Surallah
-    - T'boli
+    - T'Boli
     - Tampakan
     - Tantangan
     - Tupi
 
 Southern Leyte:
   cities:
-    - Maasin City
+    - Maasin
   municipalities:
     - Anahawan
     - Bontoc
@@ -1725,7 +1729,7 @@ Southern Leyte:
     - Pintuyan
     - Saint Bernard
     - San Francisco
-    - San Juan
+    - San Juan (Cabalian)
     - San Ricardo
     - Silago
     - Sogod
@@ -1733,14 +1737,14 @@ Southern Leyte:
 
 Sultan Kudarat:
   cities:
-    - Tacurong City
+    - Tacurong
   municipalities:
     - Bagumbayan
     - Columbio
     - Esperanza
     - Isulan
     - Kalamansig
-    - Lambayong
+    - Lambayong (Mariano Marcos)
     - Lebak
     - Lutayan
     - Palimbang
@@ -1750,8 +1754,8 @@ Sultan Kudarat:
 Sulu:
   cities: []
   municipalities:
-    - Banguingui
-    - Hadji Panglima Tahil
+    - Banguingui (Tongkil)
+    - Hadji Panglima Tahil (Marunggas)
     - Indanan
     - Jolo
     - Kalingalan Caluang
@@ -1761,7 +1765,7 @@ Sulu:
     - Old Panamao
     - Omar
     - Pandami
-    - Panglima Estino
+    - Panglima Estino (New Panamao)
     - Pangutaran
     - Parang
     - Pata
@@ -1776,36 +1780,29 @@ Surigao del Norte:
   municipalities:
     - Alegria
     - Bacuag
-    - Basilisa
     - Burgos
-    - Cagdianao
     - Claver
     - Dapa
     - Del Carmen
-    - Dinagat
     - General Luna
     - Gigaquit
-    - Libjo
-    - Loreto
     - Mainit
     - Malimono
     - Pilar
     - Placer
     - San Benito
-    - San Francisco
+    - San Francisco (Anao-Aon)
     - San Isidro
-    - San Jose
-    - Santa Monica
+    - Santa Monica (Sapao)
     - Sison
     - Socorro
     - Tagana-an
-    - Tubajon
     - Tubod
 
 Surigao del Sur:
   cities:
-    - Bislig City
-    - Tandag City
+    - Bislig
+    - Tandag
   municipalities:
     - Barobo
     - Bayabas
@@ -1852,19 +1849,19 @@ Tawi-Tawi:
   municipalities:
     - Bongao
     - Languyan
-    - Mapun
-    - Panglima Sugala
+    - Mapun (Cagayan de Tawi-Tawi)
+    - Panglima Sugala (Balimbing)
     - Sapa-Sapa
     - Sibutu
     - Simunul
     - Sitangkai
     - South Ubian
     - Tandubas
-    - Turtle Islands
+    - Turtle Islands (Taganak)
 
 Zambales:
   cities:
-    - Olongapo City
+    - Olongapo
   municipalities:
     - Botolan
     - Cabangan
@@ -1882,22 +1879,22 @@ Zambales:
 
 Zamboanga del Norte:
   cities:
-    - Dapitan City
-    - Dipolog City
+    - Dapitan
+    - Dipolog
   municipalities:
-    - Bacungan
     - Baliguian
     - Godod
     - Gutalac
-    - Jose Dalman
+    - Jose Dalman (Ponot)
     - Kalawit
     - Katipunan
     - La Libertad
     - Labason
+    - Leon B. Postigo (Bacungan)
     - Liloy
     - Manukan
     - Mutia
-    - Piñan
+    - Piñan (New Piñan)
     - Polanco
     - President Manuel A. Roxas
     - Rizal
@@ -1913,7 +1910,7 @@ Zamboanga del Norte:
 
 Zamboanga del Sur:
   cities:
-    - Pagadian City
+    - Pagadian
     - Zamboanga City
   municipalities:
     - Aurora
@@ -1933,10 +1930,10 @@ Zamboanga del Sur:
     - Midsalip
     - Molave
     - Pitogo
-    - Ramon Magsaysay
+    - Ramon Magsaysay (Liargo)
     - San Miguel
     - San Pablo
-    - Sominot
+    - Sominot (Don Mariano Marcos)
     - Tabina
     - Tambulig
     - Tigbao
